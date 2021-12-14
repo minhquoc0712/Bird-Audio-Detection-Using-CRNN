@@ -2,6 +2,8 @@
 
 **The file name and some folders need to be organized**.
 
+This project is a competition organzied by Pattern Recognition and Machine Learning 2020-2021 course at Tampere University. The topic is about detection bird sound in audio files using machine learning method.
+
 Our model followed the proposed model in [1]. We had tried different settings for the model and the model provides the final result is presented.
 
 
