@@ -1,6 +1,6 @@
 # Bird-Audio-Detection-Using-CRNN
 
-**The file name and some folders need to be organized**
+**The file name and some folders need to be organized**.
 
 Our model followed the proposed model in [1]. We had tried different settings for the model and the model provides the final result is presented.
 
